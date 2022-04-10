@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**i
+/**
  * main 
  *
  * Return: Always (Success)
